@@ -1,0 +1,1 @@
+exports.id1 = require('./assets/images/place1.jpeg');

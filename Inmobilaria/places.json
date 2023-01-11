@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "like": true,
+        "imagePath": "id1",
+        "name": "The Willows",
+        "address": "3517 W. Gray St. Utica",
+        "rooms": "3",
+        "restrooms": "2",
+        "area": "230",
+        "price": "440"
+    },
+    {
+        "id": 2,
+        "like": false,
+        "imagePath": "id2",
+        "name": "Orchad House",
+        "address": "12458 Magnolia St",
+        "rooms": "5",
+        "restrooms": "2",
+        "area": "150",
+        "price": "500"
+    },
+    {
+        "id": 3,
+        "like": true,
+        "imagePath": "id3",
+        "name": "Corner House",
+        "address": "2460 Maxson Rd",
+        "rooms": "2",
+        "restrooms": "1",
+        "area": "200",
+        "price": "350"
+    },
+    {
+        "id": 4,
+        "like": false,
+        "imagePath": "id4",
+        "name": "Rosemead House",
+        "address": "12337 Klingerman St",
+        "rooms": "3",
+        "restrooms": "1",
+        "area": "160",
+        "price": "370"
+    },
+    {
+        "id": 5,
+        "like": true,
+        "imagePath": "id5",
+        "name": "The Whittier",
+        "address": "2358 Cogswell Rd",
+        "rooms": "4",
+        "restrooms": "3",
+        "area": "400",
+        "price": "600"
+    },
+    {
+        "id": 6,
+        "like": false,
+        "imagePath": "id6",
+        "name": "Pasadena House",
+        "address": "11915 Bonwood Rd",
+        "rooms": "2",
+        "restrooms": "1",
+        "area": "120",
+        "price": "100"
+    },
+    {
+        "id": 7,
+        "like": true,
+        "imagePath": "id7",
+        "name": "Alhambra",
+        "address": "11203 Redberry St",
+        "rooms": "4",
+        "restrooms": "4",
+        "area": "600",
+        "price": "700"
+    }
+]
