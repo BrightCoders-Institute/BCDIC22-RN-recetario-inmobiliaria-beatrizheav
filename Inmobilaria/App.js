@@ -20,6 +20,10 @@ export default function App() {
                   style={graphics.imgPlace}
                   source={placesImages[place.imagePath]}
                 />
+                <View style={containers.scoreContainer}>
+                  <Ionicons name="star" size={15} color="#DFCC33" />
+                  <Text style={texts.scoreText}>{place.score}</Text>
+                </View>
               </View>
               <View style={containers.dataContainer}>
                 <Text style={texts.textName}>{place.name}</Text>

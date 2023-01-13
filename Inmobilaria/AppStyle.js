@@ -25,6 +25,7 @@ export const containers = StyleSheet.create({
         height: 105,
         position: 'relative',
         marginRight: 18,
+        alignItems: 'center',
     },
     dataContainer: {
         width: '60%',
@@ -44,6 +45,17 @@ export const containers = StyleSheet.create({
         flexDirection: 'row',
         alignItems: 'center',
     },
+    scoreContainer:{
+        width: '55%',
+        height: 25,
+        backgroundColor: '#FAF8C9',
+        borderRadius: '12%',
+        position: 'absolute',
+        alignItems: 'center',
+        justifyContent: 'center',
+        flexDirection: 'row',
+        marginTop: 72
+    }
 })
 
 export const texts = StyleSheet.create({
@@ -59,6 +71,12 @@ export const texts = StyleSheet.create({
         fontSize: 15,
         fontWeight: '700',
         marginLeft: 5,
+    },
+    scoreText: {
+        fontSize: 15,
+        fontWeight: '700',
+        marginLeft: 5,
+        color: '#8A7C0A'
     },
     priceText: {
         fontSize: 17.5,
