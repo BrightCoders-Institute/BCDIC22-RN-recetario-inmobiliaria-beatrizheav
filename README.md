@@ -4,15 +4,24 @@
 
 - [Ver instrucciones](./instructions.md)
 
-This README would normally document whatever steps are necessary to get the application up and running.
+# INMOBILIARIA
+El objetivo de la app es motrar un catalogo de casas en renta para una inmobiliaria, en este listado se debe mostrar cada una de las propiedades con las siguientes caracteristicas:
+-Nombre
+-Ubicación
+-Imágen
+-Puntuación
+-Número de cuartos, baños y area.
+-Precio
+-Like
 
-Things you may want to cover:
+# How to Install and Run the Project.
+1 git clone (ruta del repositorio)
+2 cd (nombre del repositorio)
+3 npm i para instalar todas las dependencias
+4 npm start ó expo start para correr el proyecto
+5 npm run android para inicializar el emulador
 
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
+# How to Use the Project.
+Desliza la pantalla para ver el listado de las diferentes propiedades
+
   
