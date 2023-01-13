@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "like": true,
+        "like": "true",
         "imagePath": "id1",
         "name": "The Willows",
         "address": "3517 W. Gray St. Utica",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "like": false,
+        "like": "false",
         "imagePath": "id2",
         "name": "Orchad House",
         "address": "12458 Magnolia St",
@@ -23,7 +23,7 @@
     },
     {
         "id": 3,
-        "like": true,
+        "like": "true",
         "imagePath": "id3",
         "name": "Corner House",
         "address": "2460 Maxson Rd",
@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "like": false,
+        "like": "false",
         "imagePath": "id4",
         "name": "Rosemead House",
         "address": "12337 Klingerman St",
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "like": true,
+        "like": "true",
         "imagePath": "id5",
         "name": "The Whittier",
         "address": "2358 Cogswell Rd",
@@ -56,7 +56,7 @@
     },
     {
         "id": 6,
-        "like": false,
+        "like": "false",
         "imagePath": "id6",
         "name": "Pasadena House",
         "address": "11915 Bonwood Rd",
